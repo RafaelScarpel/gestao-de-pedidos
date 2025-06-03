@@ -1,5 +1,5 @@
 # Visão Geral
-Esse repositório contém o código desenvolvido para uma resolver uma prova da matéria de Programação Orientada a Objetos, feita em python.
+Esse repositório contém o código desenvolvido para resolver uma prova da matéria de Programação Orientada a Objetos, feita em python.
 
 # Objetivo
 O exercício proposto era implementar um sistema de gestão de pedidos para uma loja fictícia de computadores, que vende desktops montados a partir de componentes individuais. O sistema verifica se os pedidos estão completos, e calcula os valores com impostos conforme as regras de negócio que foram especificadas.
